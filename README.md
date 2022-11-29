@@ -12,4 +12,5 @@ risanben/risanben is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+a screenshot from my latest project - sTrello (main page)
 ![appScreenshot](https://user-images.githubusercontent.com/109595163/204524914-8007a978-3e3a-4109-96c4-1baf9baaf321.png)
